@@ -1,0 +1,9 @@
+"Ninetower"
+{
+	"nt_lobby_a8"
+	{
+		"map"	"nt_lobby_a8"
+		"material"	"vgui/ninetower/nt_lobby_a8"
+		"credits"	"Imafluffycat"
+	}
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/ninetower/nt_suitepanel/terminal_body"
+	"$surfaceprop" "metal"
+}
+

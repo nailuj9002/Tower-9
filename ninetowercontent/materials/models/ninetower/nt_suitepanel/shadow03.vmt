@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/ninetower/nt_suitepanel/shadow03"
+	"$decal" 1
+	"$decalscale" 0.25
+	"%keywords" "c17downtown"
+	"$translucent" 1
+	"$alpha" 0.75
+}

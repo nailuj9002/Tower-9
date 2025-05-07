@@ -1,0 +1,12 @@
+"ModInfo"
+{
+	"name"		"NineTower Content"
+	"version"	"1.0"
+	"author_name"	"Imafluffycat"
+	"author_email"	"imafluffycat@theendboss101.com"
+	"author_web"	"Imafluffycat.ddns.net"
+	
+	"icon"	"gmod/mod_icon_ninetower"
+	
+	// HL2DM content is already included
+}

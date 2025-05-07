@@ -1,0 +1,813 @@
+
+
+
+materialPath: D:\steam\steamapps\sourcemods\gmod9\materials
+Loading C:\Users\julib\Desktop\Projects\Tower9\Tower9 Source Code\maps\nt_lobby_a7_d.vmf
+material "billie/dev_measuregeneric02e" not found
+Material not found!: BILLIE/DEV_MEASUREGENERIC02E
+material "billie/dev_measuregeneric02c" not found
+Material not found!: BILLIE/DEV_MEASUREGENERIC02C
+material "billie/dev_measuregeneric02b" not found
+Material not found!: BILLIE/DEV_MEASUREGENERIC02B
+material "billie/dev_measuregeneric02" not found
+Material not found!: BILLIE/DEV_MEASUREGENERIC02
+material "gmod_tower/gmod" not found
+Material not found!: GMOD_TOWER/GMOD
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 836 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\julib\Desktop\Projects\Tower9\Tower9 Source Code\maps\nt_lobby_a7_d.prt...done (0)
+Creating default cubemaps for env_cubemap using skybox materials:
+skybox/sky_day01_01*.vmt
+Run buildcubemaps in the engine to get the correct cube maps.
+
+No such variable "$hdrbasetexture" for material "skybox/sky_day01_01rt"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (660193 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3699 texinfos to 2132
+Reduced 485 texdatas to 392 (22510 bytes to 18904)
+Writing C:\Users\julib\Desktop\Projects\Tower9\Tower9 Source Code\maps\nt_lobby_a7_d.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.bsp
+reading c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.prt
+ 786 portalclusters
+1948 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 177 visible clusters (0.00%)
+Total clusters visible: 71749
+Average clusters visible: 91
+Building PAS...
+Average clusters audible: 184
+visdatasize:60831  compressed from 163488
+writing c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.bsp
+5869 faces
+2 degenerate faces
+354048 square feet [50982920.00 square inches]
+33 displacements
+4296 square feet [618653.25 square inches]
+5867 patches before subdivision
+45003 patches after subdivision
+539 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7564177, max 1032
+transfer lists:  57.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(281740, 241928, 173524)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(54314, 40544, 23256)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(12148, 8113, 3979)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2571, 1514, 618)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(607, 325, 115)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(138, 67, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(34, 15, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(8, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0088 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+265 of 450 (58% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  79/1024         3792/49152    ( 7.7%) 
+brushes               1690/8192        20280/98304    (20.6%) 
+brushsides           12986/65536      103888/524288   (19.8%) 
+planes                8870/65536      177400/1310720  (13.5%) 
+vertexes             11705/65536      140460/786432   (17.9%) 
+nodes                 2117/65536       67744/2097152  ( 3.2%) 
+texinfos              2132/12288      153504/884736   (17.4%) 
+texdata                392/2048        12544/65536    (19.1%) 
+dispinfos               33/0            5808/0        ( 0.0%) 
+disp_verts             881/0           17620/0        ( 0.0%) 
+disp_tris             1152/0            2304/0        ( 0.0%) 
+disp_lmsamples       11636/0           11636/0        ( 0.0%) 
+faces                 5869/65536      328664/3670016  ( 9.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4553/65536      254968/3670016  ( 6.9%) 
+leaves                2197/65536       70304/2097152  ( 3.4%) 
+leaffaces             6806/65536       13612/131072   (10.4%) 
+leafbrushes           2795/65536        5590/131072   ( 4.3%) 
+areas                    9/256            72/2048     ( 3.5%) 
+surfedges            46576/512000     186304/2048000  ( 9.1%) 
+edges                29784/256000     119136/1024000  (11.6%) 
+LDR worldlights        539/8192        47432/720896   ( 6.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips            516/32768        5160/327680   ( 1.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          9639/65536       19278/131072   (14.7%) 
+cubemapsamples          51/1024          816/16384    ( 5.0%) 
+overlays                19/512          6688/180224   ( 3.7%) 
+LDR lightdata         [variable]     2183812/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       60831/16777216 ( 0.4%) 
+entdata               [variable]      141177/393216   (35.9%) 
+LDR leaf ambient      2197/65536       52728/1572864  ( 3.4%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/16042    ( 0.0%) 
+pakfile               [variable]      644993/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]      660193/4194304  (15.7%) 
+==== Total Win32 BSP file data space used: 5518740 bytes ====
+
+Total triangle count: 16251
+Writing c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.bsp
+33 seconds elapsed
+
+
+
+materialPath: D:\steam\steamapps\sourcemods\gmod9\materials
+Loading C:\Users\julib\Desktop\Projects\Tower9\Tower9 Source Code\maps\nt_lobby_a7_d.vmf
+material "billie/dev_measuregeneric02e" not found
+Material not found!: BILLIE/DEV_MEASUREGENERIC02E
+material "billie/dev_measuregeneric02c" not found
+Material not found!: BILLIE/DEV_MEASUREGENERIC02C
+material "billie/dev_measuregeneric02b" not found
+Material not found!: BILLIE/DEV_MEASUREGENERIC02B
+material "billie/dev_measuregeneric02" not found
+Material not found!: BILLIE/DEV_MEASUREGENERIC02
+material "gmod_tower/gmod" not found
+Material not found!: GMOD_TOWER/GMOD
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 836 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\julib\Desktop\Projects\Tower9\Tower9 Source Code\maps\nt_lobby_a7_d.prt...done (0)
+Creating default cubemaps for env_cubemap using skybox materials:
+skybox/sky_day01_01*.vmt
+Run buildcubemaps in the engine to get the correct cube maps.
+
+No such variable "$hdrbasetexture" for material "skybox/sky_day01_01rt"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (660193 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3699 texinfos to 2132
+Reduced 485 texdatas to 392 (22510 bytes to 18904)
+Writing C:\Users\julib\Desktop\Projects\Tower9\Tower9 Source Code\maps\nt_lobby_a7_d.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.bsp
+reading c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.prt
+ 786 portalclusters
+1948 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 177 visible clusters (0.00%)
+Total clusters visible: 71749
+Average clusters visible: 91
+Building PAS...
+Average clusters audible: 184
+visdatasize:60831  compressed from 163488
+writing c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.bsp
+5869 faces
+2 degenerate faces
+354048 square feet [50982920.00 square inches]
+33 displacements
+4296 square feet [618653.25 square inches]
+5867 patches before subdivision
+45003 patches after subdivision
+539 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7564177, max 1032
+transfer lists:  57.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(281740, 241928, 173524)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(54314, 40544, 23256)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(12148, 8113, 3979)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2571, 1514, 618)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(607, 325, 115)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(138, 67, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(34, 15, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(8, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0092 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+265 of 450 (58% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  79/1024         3792/49152    ( 7.7%) 
+brushes               1690/8192        20280/98304    (20.6%) 
+brushsides           12986/65536      103888/524288   (19.8%) 
+planes                8870/65536      177400/1310720  (13.5%) 
+vertexes             11705/65536      140460/786432   (17.9%) 
+nodes                 2117/65536       67744/2097152  ( 3.2%) 
+texinfos              2132/12288      153504/884736   (17.4%) 
+texdata                392/2048        12544/65536    (19.1%) 
+dispinfos               33/0            5808/0        ( 0.0%) 
+disp_verts             881/0           17620/0        ( 0.0%) 
+disp_tris             1152/0            2304/0        ( 0.0%) 
+disp_lmsamples       11636/0           11636/0        ( 0.0%) 
+faces                 5869/65536      328664/3670016  ( 9.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4553/65536      254968/3670016  ( 6.9%) 
+leaves                2197/65536       70304/2097152  ( 3.4%) 
+leaffaces             6806/65536       13612/131072   (10.4%) 
+leafbrushes           2795/65536        5590/131072   ( 4.3%) 
+areas                    9/256            72/2048     ( 3.5%) 
+surfedges            46576/512000     186304/2048000  ( 9.1%) 
+edges                29784/256000     119136/1024000  (11.6%) 
+LDR worldlights        539/8192        47432/720896   ( 6.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips            516/32768        5160/327680   ( 1.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          9639/65536       19278/131072   (14.7%) 
+cubemapsamples          51/1024          816/16384    ( 5.0%) 
+overlays                19/512          6688/180224   ( 3.7%) 
+LDR lightdata         [variable]     2183812/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       60831/16777216 ( 0.4%) 
+entdata               [variable]      141177/393216   (35.9%) 
+LDR leaf ambient      2197/65536       52728/1572864  ( 3.4%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/16042    ( 0.0%) 
+pakfile               [variable]      644993/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]      660193/4194304  (15.7%) 
+==== Total Win32 BSP file data space used: 5518740 bytes ====
+
+Total triangle count: 16251
+Writing c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.bsp
+32 seconds elapsed
+
+
+
+materialPath: D:\steam\steamapps\sourcemods\gmod9\materials
+Loading c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.vmf
+material "billie/dev_measuregeneric02e" not found
+Material not found!: BILLIE/DEV_MEASUREGENERIC02E
+material "billie/dev_measuregeneric02c" not found
+Material not found!: BILLIE/DEV_MEASUREGENERIC02C
+material "billie/dev_measuregeneric02b" not found
+Material not found!: BILLIE/DEV_MEASUREGENERIC02B
+material "billie/dev_measuregeneric02" not found
+Material not found!: BILLIE/DEV_MEASUREGENERIC02
+material "gmod_tower/gmod" not found
+Material not found!: GMOD_TOWER/GMOD
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 836 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.prt...done (0)
+Creating default cubemaps for env_cubemap using skybox materials:
+skybox/sky_day01_01*.vmt
+Run buildcubemaps in the engine to get the correct cube maps.
+
+No such variable "$hdrbasetexture" for material "skybox/sky_day01_01rt"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (660193 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3699 texinfos to 2132
+Reduced 485 texdatas to 392 (22510 bytes to 18904)
+Writing c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.bsp
+reading c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.prt
+ 786 portalclusters
+1948 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 177 visible clusters (0.00%)
+Total clusters visible: 71749
+Average clusters visible: 91
+Building PAS...
+Average clusters audible: 184
+visdatasize:60831  compressed from 163488
+writing c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.bsp
+5869 faces
+2 degenerate faces
+354048 square feet [50982920.00 square inches]
+33 displacements
+4296 square feet [618653.25 square inches]
+5867 patches before subdivision
+45003 patches after subdivision
+539 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7564177, max 1032
+transfer lists:  57.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(281740, 241928, 173524)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(54314, 40544, 23256)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(12148, 8113, 3979)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2571, 1514, 618)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(607, 325, 115)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(138, 67, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(34, 15, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(8, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0094 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+265 of 450 (58% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  79/1024         3792/49152    ( 7.7%) 
+brushes               1690/8192        20280/98304    (20.6%) 
+brushsides           12986/65536      103888/524288   (19.8%) 
+planes                8870/65536      177400/1310720  (13.5%) 
+vertexes             11705/65536      140460/786432   (17.9%) 
+nodes                 2117/65536       67744/2097152  ( 3.2%) 
+texinfos              2132/12288      153504/884736   (17.4%) 
+texdata                392/2048        12544/65536    (19.1%) 
+dispinfos               33/0            5808/0        ( 0.0%) 
+disp_verts             881/0           17620/0        ( 0.0%) 
+disp_tris             1152/0            2304/0        ( 0.0%) 
+disp_lmsamples       11636/0           11636/0        ( 0.0%) 
+faces                 5869/65536      328664/3670016  ( 9.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4553/65536      254968/3670016  ( 6.9%) 
+leaves                2197/65536       70304/2097152  ( 3.4%) 
+leaffaces             6806/65536       13612/131072   (10.4%) 
+leafbrushes           2795/65536        5590/131072   ( 4.3%) 
+areas                    9/256            72/2048     ( 3.5%) 
+surfedges            46576/512000     186304/2048000  ( 9.1%) 
+edges                29784/256000     119136/1024000  (11.6%) 
+LDR worldlights        539/8192        47432/720896   ( 6.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips            516/32768        5160/327680   ( 1.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          9639/65536       19278/131072   (14.7%) 
+cubemapsamples          51/1024          816/16384    ( 5.0%) 
+overlays                19/512          6688/180224   ( 3.7%) 
+LDR lightdata         [variable]     2183812/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       60831/16777216 ( 0.4%) 
+entdata               [variable]      141177/393216   (35.9%) 
+LDR leaf ambient      2197/65536       52728/1572864  ( 3.4%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/16042    ( 0.0%) 
+pakfile               [variable]      644993/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]      660193/4194304  (15.7%) 
+==== Total Win32 BSP file data space used: 5518740 bytes ====
+
+Total triangle count: 16251
+Writing c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.bsp
+33 seconds elapsed
+
+
+
+materialPath: D:\steam\steamapps\sourcemods\gmod9\materials
+Loading c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.vmf
+material "gmod_tower/gmod" not found
+Material not found!: GMOD_TOWER/GMOD
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (666.00 -293.00 27.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0, 3072.0, 236.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7168.0, 2560.0, 236.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7168.0, 1536.0, 236.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0, 512.0, -28.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0, 512.0, 456.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7168.0, 512.0, 236.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0, 2560.0, -28.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0, 2485.5, 201.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 836 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default cubemaps for env_cubemap using skybox materials:
+skybox/sky_day01_01*.vmt
+Run buildcubemaps in the engine to get the correct cube maps.
+
+No such variable "$hdrbasetexture" for material "skybox/sky_day01_01rt"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (659343 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3704 texinfos to 2133
+Reduced 485 texdatas to 393 (22514 bytes to 18960)
+Writing c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.bsp
+reading c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.prt
+LoadPortals: couldn't read c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.bsp
+No vis information, direct lighting only.
+6081 faces
+1 degenerate faces
+393801 square feet [56707368.00 square inches]
+33 displacements
+4296 square feet [618653.25 square inches]
+235 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0071 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 146 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  78/1024         3744/49152    ( 7.6%) 
+brushes               1685/8192        20220/98304    (20.6%) 
+brushsides           12956/65536      103648/524288   (19.8%) 
+planes                8804/65536      176080/1310720  (13.4%) 
+vertexes             12296/65536      147552/786432   (18.8%) 
+nodes                 3170/65536      101440/2097152  ( 4.8%) 
+texinfos              2133/12288      153576/884736   (17.4%) 
+texdata                393/2048        12576/65536    (19.2%) 
+dispinfos               33/0            5808/0        ( 0.0%) 
+disp_verts             881/0           17620/0        ( 0.0%) 
+disp_tris             1152/0            2304/0        ( 0.0%) 
+disp_lmsamples       11636/0           11636/0        ( 0.0%) 
+faces                 6081/65536      340536/3670016  ( 9.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4619/65536      258664/3670016  ( 7.0%) 
+leaves                3249/65536      103968/2097152  ( 5.0%) 
+leaffaces             7354/65536       14708/131072   (11.2%) 
+leafbrushes           2793/65536        5586/131072   ( 4.3%) 
+areas                    9/256            72/2048     ( 3.5%) 
+surfedges            47876/512000     191504/2048000  ( 9.4%) 
+edges                30708/256000     122832/1024000  (12.0%) 
+LDR worldlights        235/8192        20680/720896   ( 2.9%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips            660/32768        6600/327680   ( 2.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         12075/65536       24150/131072   (18.4%) 
+cubemapsamples          51/1024          816/16384    ( 5.0%) 
+overlays                19/512          6688/180224   ( 3.7%) 
+LDR lightdata         [variable]     2402056/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      140843/393216   (35.8%) 
+LDR leaf ambient      3249/65536       77976/1572864  ( 5.0%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/16074    ( 0.0%) 
+pakfile               [variable]      644993/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]      659343/4194304  (15.7%) 
+==== Total Win32 BSP file data space used: 5778221 bytes ====
+
+Total triangle count: 16878
+Writing c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.bsp
+31 seconds elapsed
+
+
+
+materialPath: D:\steam\steamapps\sourcemods\gmod9\materials
+Loading c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.vmf
+material "gmod_tower/gmod" not found
+Material not found!: GMOD_TOWER/GMOD
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (666.00 -293.00 27.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0, 3072.0, 236.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7168.0, 2560.0, 236.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7168.0, 1536.0, 236.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0, 512.0, -28.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0, 512.0, 456.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7168.0, 512.0, 236.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0, 2560.0, -28.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0, 2485.5, 201.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 836 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default cubemaps for env_cubemap using skybox materials:
+skybox/sky_day01_01*.vmt
+Run buildcubemaps in the engine to get the correct cube maps.
+
+No such variable "$hdrbasetexture" for material "skybox/sky_day01_01rt"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (654280 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3665 texinfos to 2102
+Reduced 476 texdatas to 388 (22030 bytes to 18701)
+Writing c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.bsp
+reading c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.prt
+LoadPortals: couldn't read c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.bsp
+No vis information, direct lighting only.
+6026 faces
+1 degenerate faces
+370799 square feet [53395152.00 square inches]
+33 displacements
+4296 square feet [618653.25 square inches]
+232 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0074 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 146 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  71/1024         3408/49152    ( 6.9%) 
+brushes               1675/8192        20100/98304    (20.4%) 
+brushsides           12882/65536      103056/524288   (19.7%) 
+planes                8714/65536      174280/1310720  (13.3%) 
+vertexes             12216/65536      146592/786432   (18.6%) 
+nodes                 3122/65536       99904/2097152  ( 4.8%) 
+texinfos              2102/12288      151344/884736   (17.1%) 
+texdata                388/2048        12416/65536    (18.9%) 
+dispinfos               33/0            5808/0        ( 0.0%) 
+disp_verts             881/0           17620/0        ( 0.0%) 
+disp_tris             1152/0            2304/0        ( 0.0%) 
+disp_lmsamples       11636/0           11636/0        ( 0.0%) 
+faces                 6026/65536      337456/3670016  ( 9.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4564/65536      255584/3670016  ( 7.0%) 
+leaves                3194/65536      102208/2097152  ( 4.9%) 
+leaffaces             7291/65536       14582/131072   (11.1%) 
+leafbrushes           2783/65536        5566/131072   ( 4.2%) 
+areas                    9/256            72/2048     ( 3.5%) 
+surfedges            47436/512000     189744/2048000  ( 9.3%) 
+edges                30484/256000     121936/1024000  (11.9%) 
+LDR worldlights        232/8192        20416/720896   ( 2.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips            660/32768        6600/327680   ( 2.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         12075/65536       24150/131072   (18.4%) 
+cubemapsamples          43/1024          688/16384    ( 4.2%) 
+overlays                19/512          6688/180224   ( 3.7%) 
+LDR lightdata         [variable]     2401036/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      138488/393216   (35.2%) 
+LDR leaf ambient      3194/65536       76656/1572864  ( 4.9%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/15702    ( 0.0%) 
+pakfile               [variable]      561956/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]      654280/4194304  (15.6%) 
+==== Total Win32 BSP file data space used: 5666576 bytes ====
+
+Total triangle count: 16768
+Writing c:\users\julib\desktop\projects\tower9\tower9 source code\maps\nt_lobby_a7_d.bsp
+30 seconds elapsed

@@ -1,0 +1,16 @@
+"soundscape.lobby"
+{
+	"playrandom"
+	{
+		"time"		"2,6"
+		"volume"	"1"
+		"pitch"		"100"
+		"channel"	"CHAN_AUTO"
+		"rndwave"
+		{
+			"wave"		"lobby/music/lobby1.wav"
+			"wave"		"lobby/music/lobby2.wav"
+			"wave"		"lobby/music/lobby3.wav"
+		}
+	}
+}
