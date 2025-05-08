@@ -10,9 +10,19 @@ TimeLimit = 0;
 FragLimit = 0;
 speed = 250;
 
+
+_OpenScript("gamemodes/ninetower/gamemode/entities/nt_suitepanel/init.lua");
 _OpenScript("gamemodes/ninetower/lobby.lua");
-_OpenScript("gamemodes/ninetower/location.lua")
-_OpenScript( "includes/player.lua" )
+_OpenScript("gamemodes/ninetower/location.lua");
+_OpenScript("includes/player.lua");
+_OpenScript("ULib/init.lua")
+
+
+files = _file.Find( "lua/gamemodes/ninetower/modules/*.lua" )
+for _, file in ipairs( files ) do
+	ULib.print( "[NineTower] Loading module: " .. file )
+	_OpenScript( "gamemodes/ninetower/modules/" .. file )
+end
 
 
 

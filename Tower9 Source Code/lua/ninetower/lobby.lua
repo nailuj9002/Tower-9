@@ -4,8 +4,8 @@ function LobbyLoadingandIntializing (i)
     local i=1, _MaxPlayers();
 	_OpenScript("gamemodes/ninetower/location.lua");
     _PlayerSetMaxSpeed( i, speed);
-    _OpenScript("ULib/ulib_plugin.lua")
     _ServerCommand("npc_citizen_auto_player_squad 0 \n")
+    _OpenScript("ULib/ulib_plugin.lua")
     
 end
 
